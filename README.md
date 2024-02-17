@@ -39,12 +39,16 @@ class MohammadHosseinTavakoli:
 me = MohammadHosseinTavakoli()
 me.say_hi()
 ```
+<!-- GitHub Stats -->
+<h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/mhtavakoli">
     <img src="https://github-readme-stats.vercel.app/api?username=TavakolintelliCode&show_icons=true&theme=radical" alt=" Mohammad Hossein Tavakoli's GitHub Stats">
   </a>
 </p>
-
+<!-- Contact Information -->
+<h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  📫 How to reach me: <a href='mailto:mohammadhosein.tavakoli@example.com'>mohammadhosein.tavakoli@example.com</a>
+    Feel free to reach out for collaborations or just a chat. <br>
+  <a href='mailto:mohammadhosein.tavakoli@example.com'>mohammadhosein.tavakoli@example.com</a>
 </p>
