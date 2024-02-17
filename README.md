@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Mohammad Hossein Tavakoli 👋</h1>
 <h3 align="center">A passionate AI & Machine Learning enthusiast!</h3>
 
-  ![Machine Learning Process](https://tenor.com/b13pH.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxmaW0yemJkYWV2YzBmeWswNzRoc3drNDhtbXljMWhwYnNmcXVqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EhtFCBffNztPPc5d4/source.gif" alt="Machine Learning GIF" width="400" height="200" >
+</p>
 
 <!-- Your existing badges and content -->
 
