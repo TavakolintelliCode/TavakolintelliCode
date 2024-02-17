@@ -41,21 +41,3 @@ me.say_hi()
 <p align="center">
   📫 How to reach me: <a href='mailto:mohammadhosein.tavakoli@example.com'>mohammadhosein.tavakoli@example.com</a>
 </p>
-
-<p align="center">
-  ⚡ Fun fact: I love to play chess and participate in competitive programming contests! ♟️🏆
-</p>
-
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-</p>
-
-<p align="center">
-  <!-- Show some of your repositories with nice image links -->
-  <a href="https://github.com/mhtavakoli/awesome-ai-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhtavakoli&repo=awesome-ai-project&theme=radical" alt="GitHub Repo 1">
-  </a>
-  <a href="https://github.com/mhtavakoli/another-cool-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhtavakoli&repo=another-cool-repo&theme=radical" alt="GitHub Repo 2">
-  </a>
-</p>
