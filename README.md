@@ -2,6 +2,12 @@
 <h3 align="center">A passionate AI & Machine Learning enthusiast!</h3>
 
 <p align="center">
+  ![Machine Learning Process](https://tenor.com/b13pH.gif)
+</p>
+
+<!-- Your existing badges and content -->
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammadhoseintavakoli/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Hossein%20Tavakoli-blue?style=flat-square&logo=linkedin">
   </a>
