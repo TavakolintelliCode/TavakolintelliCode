@@ -41,7 +41,7 @@ me.say_hi()
 ```
 <p align="center">
   <a href="https://github.com/mhtavakoli">
-    <img src="https://github-readme-stats.vercel.app/api?username=mhtavakoli&show_icons=true&theme=radical" alt="Mohammad Hossein Tavakoli's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TavakolintelliCode&show_icons=true&theme=radical" alt=" Mohammad Hossein Tavakoli's GitHub Stats">
   </a>
 </p>
 
