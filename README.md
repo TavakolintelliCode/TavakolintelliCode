@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Mohammad Hossein Tavakoli 👋</h1>
 <h3 align="center">A passionate AI & Machine Learning enthusiast!</h3>
 
-<p align="center">
   ![Machine Learning Process](https://tenor.com/b13pH.gif)
-</p>
 
 <!-- Your existing badges and content -->
 
