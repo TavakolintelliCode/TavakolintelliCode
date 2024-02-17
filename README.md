@@ -42,7 +42,7 @@ me.say_hi()
 <!-- GitHub Stats -->
 <h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
-  <a href="https://github.com/mhtavakoli">
+  <a href="https://github.com/TavakolintelliCode">
     <img src="https://github-readme-stats.vercel.app/api?username=TavakolintelliCode&show_icons=true&theme=radical" alt=" Mohammad Hossein Tavakoli's GitHub Stats">
   </a>
 </p>
