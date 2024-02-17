@@ -50,5 +50,5 @@ me.say_hi()
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
     Feel free to reach out for collaborations or just a chat. <br>
-  <a href='mailto:mohammadhosein.tavakoli@example.com'>mohammadhosein.tavakoli@example.com</a>
+  <a href='mailto:mohammedtavakoly@gmail.com'>mohammedtavakoly@gmail.com</a>
 </p>
