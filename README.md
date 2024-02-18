@@ -9,7 +9,7 @@
 <!-- Your existing badges and content -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammadhoseintavakoli/">
+  <a href="www.linkedin.com/in/tavakolintellicode">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Hossein%20Tavakoli-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://twitter.com/mhtavakoli">
