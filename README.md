@@ -12,8 +12,8 @@
   <a href="https://linkedin.com/in/tavakolintellicode">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Hossein%20Tavakoli-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://twitter.com/mhtavakoli">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@mhtavakoli-blue?style=flat-square&logo=twitter">
+  <a href="https://twitter.com/Tavakolintelli">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@Tavakolintelli-blue?style=flat-square&logo=twitter">
   </a>
   <!-- Add other social network badges here -->
 </p>
